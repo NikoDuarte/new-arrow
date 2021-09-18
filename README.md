@@ -2,7 +2,7 @@
 ## Descripcion 📃:
 _Libreria CLI para el manejo de estructuras backend API REST y web con node en lenguajes como javascript y typescript._
 
-## Instalacion 🥸:
+## Instalacion 👽:
 ```
 * Local: npm install new-arrow
 * Global: npm instal -g new-arrow
@@ -53,8 +53,10 @@ _Una estructura de carpetas simple y entendible para un entorno backend en una A
 ```
 ---
 N1k0DM 🎉
+```
  ▐ ▄ ▄ •▄     
 •█▌▐██▌▄▌▪    
 ▐█▐▐▌▐▀▀▄·    
 ██▐█▌▐█.█▌    
 ▀▀ █▪·▀  ▀
+```
