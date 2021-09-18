@@ -20,13 +20,13 @@ var inquirer = require('inquirer');
 //? -_ Iniciar Banner
 var main = function main() {
     //* |-> Texto personalizado
-    console.log(chalk.blue(figlet.textSync("New Arrow", {
+    console.log(chalk.blue(figlet.textSync("breakthrough", {
         font: 'Small',
         horizontalLayout: 'default',
         verticalLayout: 'default'
     })));
     console.log('| nodejs | es6 |');
-    console.log('| New Arrow |');
+    console.log('| Apollo 11 |');
     console.log('| 1.0.4 |');
     console.log('| N1k0DM |');
 };

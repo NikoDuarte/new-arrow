@@ -4,8 +4,8 @@ _Libreria CLI para el manejo de estructuras backend API REST y web con node en l
 
 ## Instalacion 🥸:
 ```
-* Local: npm install new-arrow
-* Global: npm instal -g new-arrow
+* Local: npm install breakthrough
+* Global: npm instal -g breakthrough
 ```
 ## Usalo ya 📡:
 * Sintaxis:
@@ -15,22 +15,22 @@ _Libreria CLI para el manejo de estructuras backend API REST y web con node en l
         'new': Creara un nuevo proyecto nodejs con el lenguaje requerido,
         'attach': Creara el modulo nesesario (routes, model, controller, middleware...)
     ]
-    * nw [ _action_ ] //Solo se envia una accion Ej: nw version
+    * bt [ _action_ ] //Solo se envia una accion Ej: bt version
 ```
 * Global: 
 ```
-    * nw
+    * bt
 ```
 * Local:
 Añadir en el package.json el script:
 ```
   "scripts": {
-    "nw": "./node_modules/.bin/new-arrow"
+    "bt": "./node_modules/.bin/new-arrow"
   }
 ```
 Ejecutamos el comando:
 ```
-npm run nw [ _action_ ]
+npm run bt [ _action_ ]
 ```
 ## Estructura de carpetas 📂:
 _Una estructura de carpetas simple y entendible para un entorno backend en una API REST_
@@ -53,8 +53,10 @@ _Una estructura de carpetas simple y entendible para un entorno backend en una A
 ```
 ---
 N1k0DM 🎉
+```
  ▐ ▄ ▄ •▄     
 •█▌▐██▌▄▌▪    
 ▐█▐▐▌▐▀▀▄·    
 ██▐█▌▐█.█▌    
 ▀▀ █▪·▀  ▀
+```

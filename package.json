@@ -1,5 +1,5 @@
 {
-  "name": "new-arrow",
+  "name": "breakthrough",
   "version": "1.0.0",
   "description": "Libreria CLI para el manejo de estructuras backend API REST y web con node en lenguajes como javascript y typescript.",
   "main": "index.js",
@@ -37,6 +37,6 @@
     "dotenv": "^10.0.0"
   },
   "bin": {
-    "nw": "./index.js"
+    "bt": "./index.js"
   }
 }
