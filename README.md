@@ -2,7 +2,7 @@
 ## Descripcion 📃:
 _Libreria CLI para el manejo de estructuras backend API REST y web con node en lenguajes como javascript y typescript._
 
-## Instalacion 🥸:
+## Instalacion 👽:
 ```
 * Local: npm install breakthrough
 * Global: npm instal -g breakthrough
