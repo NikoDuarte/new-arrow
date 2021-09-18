@@ -1,0 +1,42 @@
+{
+  "name": "new-arrow",
+  "version": "1.0.0",
+  "description": "Libreria CLI para el manejo de estructuras backend API REST y web con node en lenguajes como javascript y typescript.",
+  "main": "index.js",
+  "scripts": {
+    "apollo": "dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikoDuarte/cli-apollo-11.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "cli generator",
+    "libreria backend node"
+  ],
+  "author": "N1k0DM <digitalteamcode@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikoDuarte/cli-apollo-11/issues"
+  },
+  "homepage": "https://github.com/NikoDuarte/cli-apollo-11#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.1.5",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "dotenv": "^10.0.0"
+  },
+  "bin": {
+    "nw": "./index.js"
+  }
+}
